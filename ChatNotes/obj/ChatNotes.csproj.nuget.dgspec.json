@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/ChatNotes.csproj": {}
+    "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/ChatNotes.csproj": {}
   },
   "projects": {
-    "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/ChatNotes.csproj": {
+    "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/ChatNotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
+        "projectUniqueName": "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
         "projectName": "ChatNotes",
-        "projectPath": "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
+        "projectPath": "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
         "packagesPath": "/Users/vladislavaleynikov/.nuget/packages/",
-        "outputPath": "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/obj/",
+        "outputPath": "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladislavaleynikov/.nuget/NuGet/NuGet.Config"
@@ -57,6 +57,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
             }
           },
           "imports": [
