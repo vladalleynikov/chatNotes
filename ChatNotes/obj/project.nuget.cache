@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mec/1FHmMVRDYGBG3CiNATfpkam2MWX2Pw8J5fln6DbcQN4vnNSZG6BhxQpQbiM7sn8/jYyClMN3FLuiO4STQ==",
+  "dgSpecHash": "7Jp3l2U9nYN5wsZUQ7OZOtK8F8Qho4nzH+yoP6KI+0gXR/XhUpKNQUduGDHUyrmG7fapLG13lVr4Mo4sPamCyw==",
   "success": true,
-  "projectFilePath": "/Users/vladislavaleynikov/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
+  "projectFilePath": "/Users/vladislavaleynikov/Documents/Projects/ChatNotes/ChatNotes/ChatNotes.csproj",
   "expectedPackageFiles": [
     "/Users/vladislavaleynikov/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.10/microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
@@ -33,6 +33,8 @@
     "/Users/vladislavaleynikov/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/vladislavaleynikov/.nuget/packages/npgsql/6.0.7/npgsql.6.0.7.nupkg.sha512",
+    "/Users/vladislavaleynikov/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.7/npgsql.entityframeworkcore.postgresql.6.0.7.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
     "/Users/vladislavaleynikov/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
